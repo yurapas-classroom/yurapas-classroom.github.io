@@ -1,0 +1,23 @@
+{
+  "schema": "classroom50/assignments/v1",
+  "assignments": [
+    {
+      "autograder": "default",
+      "available_from": "2026-10-02T21:00:00Z",
+      "mode": "individual",
+      "name": "C++ Lab 02",
+      "runtime": {
+        "runs-on": "ubuntu-24.04",
+        "python": "3.12"
+      },
+      "slug": "lab02",
+      "student_permission": "push",
+      "submission_mode": "tag",
+      "template": {
+        "owner": "yurapas-classroom",
+        "repo": "lab02-starter",
+        "branch": "main"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema": "nltu.free-demo-export.v1",
+  "org": "yurapas-classroom",
+  "upstream_commit": "ab164a927e506778aede32c136a53b0612b4b7e6",
+  "files_sha256": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "classroom50/classrooms-index.json": "2f85264c9d1698341f0c540af6446c90c621f294e8ff69b32e06906281609921",
+    "classroom50/ensure_feedback_pr.py": "25082fdff447a54b649b974ee1203ad7c0039fe2fa4e94c2dda505ae4d58dbfc",
+    "classroom50/pilot-cpp/assignments.json": "e8847ef7d06a4cf13f59899d86f685249acd4884199b8ca426ede3a28d8a8df5",
+    "classroom50/pilot-cpp/autograders/lab02.tar.gz": "ccb1b1d73c0c08a812aa8f91914907aaf9884f50834445dce8fdccec654aae6c",
+    "classroom50/pilot-cpp/classroom.json": "8f2823c3b3af66821a253be486a5257e7d8035500a4b65da24adb34df49f2c4b",
+    "classroom50/runner.py": "0831ca5ff817b713c25be82a476c7f317f6a1eba1a1a3c7ef5417edc31d0c9cb",
+    "index.html": "6345325376eb45510762f4bb1bf9551ef9a0e90032ae5b4054e90901286bbd96"
+  }
+}
