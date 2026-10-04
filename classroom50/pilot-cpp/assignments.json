@@ -4,9 +4,9 @@
     {
       "autograder": "default",
       "available_from": "2026-10-02T21:00:00Z",
-      "description": "\u041e\u0434\u0438\u043d \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u0438\u0439 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0456\u0439 \u043d\u0430 \u0432\u0435\u0441\u044c \u043f\u0440\u0435\u0434\u043c\u0435\u0442. \u0417\u0431\u0435\u0440\u0456\u0433\u0430\u0439\u0442\u0435 lab1.cpp \u0430\u0431\u043e lab2.cpp \u0443 main: \u0437\u043c\u0456\u043d\u0435\u043d\u0430 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430 \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u044f\u0454\u0442\u044c\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u043e.",
+      "description": "Один приватний репозиторій на весь предмет. Зберігайте lab1.cpp або lab2.cpp у main: змінена лабораторна перевіряється автоматично.",
       "mode": "individual",
-      "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u2014 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0456 \u0440\u043e\u0431\u043e\u0442\u0438",
+      "name": "Програмування — лабораторні роботи",
       "runtime": {
         "runs-on": "ubuntu-24.04",
         "python": "3.12"
@@ -19,6 +19,24 @@
         "repo": "lab02-starter",
         "branch": "main"
       }
+    },
+    {
+      "slug": "labs234",
+      "name": "Програмування — лабораторні №2–4",
+      "description": "Один репозиторій: формули, цикли та масиви. Два варіанти; перевірка зміненої роботи після коміту в main.",
+      "template": {
+        "owner": "yurapas-classroom",
+        "repo": "course-labs234-starter",
+        "branch": "main"
+      },
+      "available_from": "2026-10-03T21:00:00Z",
+      "mode": "individual",
+      "autograder": "default",
+      "runtime": {
+        "runs-on": "ubuntu-24.04",
+        "python": "3.12"
+      },
+      "submission_mode": "every-push"
     }
   ]
 }

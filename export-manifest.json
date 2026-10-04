@@ -6,10 +6,11 @@
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "classroom50/classrooms-index.json": "83f0b4bb28eda102a23213535c9d38fe2239e0176ff25aaed89c00ea33c0f230",
     "classroom50/ensure_feedback_pr.py": "25082fdff447a54b649b974ee1203ad7c0039fe2fa4e94c2dda505ae4d58dbfc",
-    "classroom50/pilot-cpp/assignments.json": "9714f7f1f59806d413fec6221242754f54709649ce3967b1493e250e6b4baff8",
+    "classroom50/pilot-cpp/assignments.json": "0108738b6682de8c9518abedbd552aae8e8f9fda1b447a308d41d9a834753ef2",
     "classroom50/pilot-cpp/autograders/lab02.tar.gz": "ccd6072c15c9d6704747b4471b7a702463e0a2a8a0759ff5a9783f7e88337396",
     "classroom50/pilot-cpp/classroom.json": "9c49f4d73538f8892a56a0c92d47ff241fadb8f5de17c18047390ac075f602bd",
     "classroom50/runner.py": "0831ca5ff817b713c25be82a476c7f317f6a1eba1a1a3c7ef5417edc31d0c9cb",
-    "index.html": "af1a489969330d523bd1f014f59f57e85c80eea120875cbbb7804a98ff6349af"
+    "index.html": "af1a489969330d523bd1f014f59f57e85c80eea120875cbbb7804a98ff6349af",
+    "classroom50/pilot-cpp/autograders/labs234.tar.gz": "d0c05b0091684378f9655f90dd702f4ca0e98ece2f820f5c1e618c0f7fbf358b"
   }
 }
