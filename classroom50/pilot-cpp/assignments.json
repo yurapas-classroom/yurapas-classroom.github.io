@@ -12,7 +12,7 @@
       },
       "slug": "lab02",
       "student_permission": "push",
-      "submission_mode": "tag",
+      "submission_mode": "every-push",
       "template": {
         "owner": "yurapas-classroom",
         "repo": "lab02-starter",
